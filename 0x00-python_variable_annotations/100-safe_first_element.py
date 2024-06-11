@@ -2,10 +2,10 @@
 """
 Safe first element
 """
-from typing import Any, Union
+from typing import Any, Union, Sequence
 
 
-def safe_first_element(lst: Any) -> Union[Any, None]:
+def safe_first_element(lst: Sequence[Any]) -> Union[Any, None]:
     """safe_first_element"""
 
     if lst:
