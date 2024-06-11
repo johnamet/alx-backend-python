@@ -4,4 +4,5 @@ import math
 
 
 def floor(n: float) -> float:
+    """Floor a number n"""
     return math.floor(n)
