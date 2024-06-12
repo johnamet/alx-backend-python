@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+"""The script allows you to create async generators."""
 import asyncio
 import random
 from typing import Generator

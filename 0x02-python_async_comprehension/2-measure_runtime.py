@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+"""the script measures the runtime of the code"""
 import asyncio
 import time
 
